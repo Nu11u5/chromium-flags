@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/jquery": "^3.5.33",
+    "@types/papaparse": "^5.3.16"
+  }
+}
